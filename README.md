@@ -9,8 +9,8 @@ Aplicação simples de cronômetro e timer regressivo desenvolvida em **Next.js*
 ## 🚀 Como executar o projeto
 
 1. Clonar o repositório:
-   git clone https://github.com/seu-usuario/seu-repo.git
-   cd seu-repo
+   git clone https://github.com/matheusmndspp/cotefacil-teste
+   cd cotefacil-teste
 
 2. Instalar dependências:
    npm install
